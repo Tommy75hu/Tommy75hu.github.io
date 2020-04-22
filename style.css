@@ -70,7 +70,7 @@ ul {
   margin-bottom: 50px;
   width: 785px;
   font-family: 'Josefin Sans', sans-serif;
-  color: #222;
+  font-weight: 222;
   line-height: 1.5;
   font-size: 20px;
 }
@@ -99,7 +99,7 @@ h4 {
   margin-bottom: 50px;
   width: 785px;
   font-family: 'Josefin Sans', sans-serif;
-  color: #222;
+  font-weight: 222;
   line-height: 1.5;
   font-size: 20px;
 }
@@ -121,7 +121,7 @@ hr {
   margin-bottom: 50px;
   width: 780px;
   font-family: 'Josefin Sans', sans-serif;
-  color: #222;
+  font-weight: 222;
   line-height: 1.5;
   font-size: 20px;
 }
